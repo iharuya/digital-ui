@@ -1,6 +1,6 @@
-# shadcn/ui
+# Digital UI
 
-Accessible and customizable components that you can copy and paste into your apps. Free. Open Source. **Use this to build your own component library**.
+デジタル庁のデザインシステムを非公式に実装したUIコンポーネントライブラリ
 
 ![hero](apps/www/public/og.jpg)
 
