@@ -7,6 +7,10 @@ export const styles = [
     name: "default",
     label: "Default",
   },
+  {
+    name: "digital",
+    label: "デジタル庁",
+  },
 ] as const
 
 export type Style = (typeof styles)[number]
